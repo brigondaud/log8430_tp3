@@ -11,7 +11,6 @@ import minidraw.framework.drawing.NullTool;
 import minidraw.framework.drawing.RubberBandSelectionStrategy;
 import minidraw.framework.drawing.Tool;
 import minidraw.framework.figure.Figure;
-import minidraw.standard.handlers.*;
 
 /**
  * Selection tool: Uses a internal state pattern to define what type of tool to

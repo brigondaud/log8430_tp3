@@ -1,17 +1,15 @@
-package minidraw.standard.selectionTool;
+package minidraw.standard.ImageManager;
 
 import java.awt.*;
 
 import javax.swing.*;
 
-import minidraw.framework.*;
 import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.NullTool;
 import minidraw.framework.drawing.Tool;
-import minidraw.standard.ImageManager.ImageManager;
 
 /**
  * MiniDraw Application is a standard implementation of the DrawingEditor role.
