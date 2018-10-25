@@ -1,4 +1,4 @@
-package minidraw.framework.figure;
+package minidraw.framework.drawing;
 
 import java.awt.Rectangle;
 import java.util.EventObject;

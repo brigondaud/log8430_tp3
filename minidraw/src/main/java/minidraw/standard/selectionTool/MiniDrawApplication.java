@@ -5,12 +5,12 @@ import java.awt.*;
 import javax.swing.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.Factory;
 import minidraw.framework.drawing.NullTool;
 import minidraw.framework.drawing.Tool;
-import minidraw.framework.figure.Drawing;
-import minidraw.framework.figure.DrawingView;
 import minidraw.standard.ImageManager.ImageManager;
 
 /**

@@ -2,9 +2,6 @@ package minidraw.framework.drawing;
 
 import javax.swing.JTextField;
 
-import minidraw.framework.figure.Drawing;
-import minidraw.framework.figure.DrawingView;
-
 /**
  * Abstract factory for creating implementations of the central roles used in
  * MiniDraw.

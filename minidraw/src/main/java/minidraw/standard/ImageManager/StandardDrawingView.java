@@ -8,10 +8,10 @@ import java.util.List;
 import javax.swing.JPanel;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingChangeEvent;
 import minidraw.framework.drawing.DrawingEditor;
-import minidraw.framework.figure.Drawing;
-import minidraw.framework.figure.DrawingChangeEvent;
-import minidraw.framework.figure.DrawingView;
+import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.figure.Figure;
 
 /**

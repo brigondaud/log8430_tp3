@@ -1,8 +1,5 @@
 package minidraw.framework.drawing;
 
-import minidraw.framework.figure.Drawing;
-import minidraw.framework.figure.DrawingView;
-
 /**
  * The DrawingEditor is the interface of the "main" class of any minidraw
  * application. It must instantiate all relevant parts of the framework as well

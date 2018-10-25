@@ -4,6 +4,8 @@ import java.awt.Rectangle;
 import java.util.List;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingChangeListener;
 import minidraw.standard.handlers.*;
 
 /** Standard implementation of the drawing role. */

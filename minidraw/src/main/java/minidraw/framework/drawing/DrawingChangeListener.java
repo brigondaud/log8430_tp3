@@ -1,4 +1,4 @@
-package minidraw.framework.figure;
+package minidraw.framework.drawing;
 
 import java.util.EventListener;
 

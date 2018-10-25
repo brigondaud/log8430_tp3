@@ -6,8 +6,8 @@ import java.awt.event.MouseEvent;
 import minidraw.framework.*;
 import minidraw.framework.drawing.AbstractTool;
 import minidraw.framework.drawing.DrawingEditor;
+import minidraw.framework.drawing.DrawingView;
 import minidraw.framework.drawing.RubberBandSelectionStrategy;
-import minidraw.framework.figure.DrawingView;
 
 /**
  * SelectAreaTracker is a tool to select a set of figures using a rubberband.

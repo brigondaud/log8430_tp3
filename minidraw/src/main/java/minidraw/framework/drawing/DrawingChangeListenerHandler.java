@@ -1,4 +1,4 @@
-package minidraw.framework.figure;
+package minidraw.framework.drawing;
 
 /**
  * The DrawingChangeListenerHandler defines a role for an object that maintains

@@ -1,6 +1,10 @@
-package minidraw.framework.figure;
+package minidraw.framework.drawing;
 
 import java.util.Iterator;
+
+import minidraw.framework.figure.Figure;
+import minidraw.framework.figure.FigureChangeListener;
+import minidraw.framework.figure.SelectionHandler;
 
 /**
  * Drawing is the model role of the MVC pattern, a container of Figure instances

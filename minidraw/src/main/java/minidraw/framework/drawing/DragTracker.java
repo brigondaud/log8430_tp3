@@ -3,7 +3,6 @@ package minidraw.framework.drawing;
 import java.awt.event.*;
 
 import minidraw.framework.*;
-import minidraw.framework.figure.Drawing;
 import minidraw.framework.figure.Figure;
 
 /**

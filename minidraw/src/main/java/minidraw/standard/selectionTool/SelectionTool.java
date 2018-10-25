@@ -5,11 +5,11 @@ import java.awt.event.MouseEvent;
 import minidraw.framework.*;
 import minidraw.framework.drawing.AbstractTool;
 import minidraw.framework.drawing.DragTracker;
+import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.DrawingEditor;
 import minidraw.framework.drawing.NullTool;
 import minidraw.framework.drawing.RubberBandSelectionStrategy;
 import minidraw.framework.drawing.Tool;
-import minidraw.framework.figure.Drawing;
 import minidraw.framework.figure.Figure;
 import minidraw.standard.handlers.*;
 

@@ -4,8 +4,8 @@ import java.awt.Rectangle;
 import java.util.Iterator;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
 import minidraw.framework.drawing.RubberBandSelectionStrategy;
-import minidraw.framework.figure.Drawing;
 import minidraw.framework.figure.Figure;
 
 /**

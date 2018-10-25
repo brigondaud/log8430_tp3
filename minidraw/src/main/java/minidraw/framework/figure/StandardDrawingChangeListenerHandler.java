@@ -5,6 +5,10 @@ import java.awt.Rectangle;
 import java.util.*;
 
 import minidraw.framework.*;
+import minidraw.framework.drawing.Drawing;
+import minidraw.framework.drawing.DrawingChangeEvent;
+import minidraw.framework.drawing.DrawingChangeListener;
+import minidraw.framework.drawing.DrawingChangeListenerHandler;
 
 /**
  * The Subject role of the observer pattern for DrawingChangeListeners.
