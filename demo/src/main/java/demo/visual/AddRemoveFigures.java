@@ -3,9 +3,11 @@ package demo.visual;
 import java.awt.Point;
 import java.awt.event.MouseEvent;
 
-import drawing.*;
-import drawingeditor.*;
-import figure.*;
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.MiniDrawApplication;
+import minidraw.drawingeditor.NullTool;
+import minidraw.figure.Figure;
+import minidraw.figure.ImageFigure;
 
 /**
  * Demonstrates how figures can be added and removed from the drawing and

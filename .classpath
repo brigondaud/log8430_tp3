@@ -2,10 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="demo/src/main/java"/>
-	<classpathentry kind="lib" path="lib/boardgame.jar"/>
-	<classpathentry kind="lib" path="lib/drawing.jar"/>
-	<classpathentry kind="lib" path="lib/drawingeditor.jar"/>
-	<classpathentry kind="lib" path="lib/figure.jar"/>
-	<classpathentry kind="lib" path="lib/handlers.jar"/>
-	<classpathentry kind="output" path="minidraw/bin"/>
+	<classpathentry kind="src" path="minidraw/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>

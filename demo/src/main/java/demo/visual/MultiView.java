@@ -4,9 +4,8 @@ import java.awt.Point;
 
 import javax.swing.*;
 
-import drawingeditor.*;
-import figure.*;
-
+import minidraw.drawingeditor.*;
+import minidraw.figure.*;
 /**
  * Demonstrate multiple views.
  * 

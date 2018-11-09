@@ -2,9 +2,9 @@ package demo.breakthrough;
 
 import javax.swing.JTextField;
 
-import drawing.*;
-import drawingeditor.*;
-
+import minidraw.boardgame.*;
+import minidraw.drawing.*;
+import minidraw.drawingeditor.*;
 
 /**
  * Experimental stuff. Testing the 'boardgame' package within Minidraw.

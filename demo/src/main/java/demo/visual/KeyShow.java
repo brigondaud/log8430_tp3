@@ -2,8 +2,9 @@ package demo.visual;
 
 import java.awt.event.KeyEvent;
 
-import drawingeditor.*;
-
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.MiniDrawApplication;
+import minidraw.drawingeditor.NullTool;
 /**
  * Display key events in the status message field.
  * 

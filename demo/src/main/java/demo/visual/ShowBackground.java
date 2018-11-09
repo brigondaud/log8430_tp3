@@ -1,7 +1,7 @@
 package demo.visual;
 
-import drawingeditor.DrawingEditor;
-import drawingeditor.MiniDrawApplication;
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.MiniDrawApplication;
 
 /*
  * Basic demo of opening window with a static image background.

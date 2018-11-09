@@ -4,9 +4,10 @@ import java.awt.Point;
 
 import javax.swing.JTextField;
 
-import drawingeditor.*;
-import drawing.*;
-import figure.*;
+import minidraw.drawing.*;
+import minidraw.drawingeditor.*;
+import minidraw.figure.*;
+
 
 /**
  * A (very small) jigsaw puzzle on the Aarhus University Logo. A demonstration

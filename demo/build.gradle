@@ -9,8 +9,9 @@ repositories {
 }
 
 dependencies {
-  compile project(':minidraw')
-  compile files("../lib")
+  //compile project(':minidraw')
+  compile fileTree(dir: '../minidraw/build/libs', include: '*.jar')
+
 }
 
 // === Visual Testing of individual MiniDraw features

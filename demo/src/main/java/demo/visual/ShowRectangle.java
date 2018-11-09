@@ -5,9 +5,10 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-import drawingeditor.*;
-import figure.*;
-import drawing.*;
+import minidraw.drawing.Drawing;
+import minidraw.drawing.StandardDrawing;
+import minidraw.drawingeditor.*;
+import minidraw.figure.AbstractFigure;
 
 /**
  * Demonstrate MiniDraw ability to: A) Handle multiple windows B) Define new

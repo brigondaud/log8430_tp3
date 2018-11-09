@@ -2,7 +2,10 @@ package demo.visual;
 
 import java.awt.event.MouseEvent;
 
-import drawingeditor.*;
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.MiniDrawApplication;
+import minidraw.drawingeditor.NullTool;
+
 
 /**
  * Demonstrate different messages in the status bar.
