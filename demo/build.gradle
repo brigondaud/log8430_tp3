@@ -79,7 +79,7 @@ task puzzle(type: JavaExec) {
   description 'Simple jigsaw puzzle.'
 
   classpath sourceSets.test.runtimeClasspath
-  main = 'minidraw.visual.LogoPuzzle'
+  main = 'demo.visual.LogoPuzzle'
 }
 
 task rect(type: JavaExec) {
@@ -87,7 +87,7 @@ task rect(type: JavaExec) {
   description 'Rectangle demo.'
 
   classpath sourceSets.test.runtimeClasspath
-  main = 'minidraw.visual.ShowRectangle'
+  main = 'demo.visual.ShowRectangle'
 }
 
 // === Experimental features - BoardGame extension
