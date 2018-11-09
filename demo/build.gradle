@@ -10,6 +10,7 @@ repositories {
 
 dependencies {
   compile project(':minidraw')
+  compile files("../lib")
 }
 
 // === Visual Testing of individual MiniDraw features

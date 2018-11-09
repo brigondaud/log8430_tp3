@@ -27,13 +27,13 @@ public class ImageManager {
   /* In the original Ant based code, images are put into a root
    * folder named /resource
    */
-  private static final String RESOURCE_PATH_ANT = "/resource/";
+  private static final String RESOURCE_PATH_ANT = "./resource/";
 
   /* To support gradle builds, also look for stuff in
    * /src/main/resources/minidraw/ folder of gradle, which maps simply
    * to /minidraw once build using gradle.
    */
-  private static final String RESOURCE_PATH_GRADLE = "/minidraw-images";
+  private static final String RESOURCE_PATH_GRADLE = "./minidraw-images";
 
   // Will be set after construction to one of the two above paths
   private String resourceFolder;

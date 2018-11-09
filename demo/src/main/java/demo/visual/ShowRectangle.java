@@ -1,12 +1,13 @@
-package minidraw.visual;
+package demo.visual;
 
 import java.awt.*;
 import java.awt.event.*;
 
 import javax.swing.*;
 
-import minidraw.framework.*;
-import minidraw.standard.*;
+import drawingeditor.*;
+import figure.*;
+import drawing.*;
 
 /**
  * Demonstrate MiniDraw ability to: A) Handle multiple windows B) Define new

@@ -1,5 +1,4 @@
-SS(minidraw.framework.Drawing.ss) = 
- minidraw.framework.DrawingChangeListener
+SS(drawing.ss) = 
  minidraw.framework.DrawingChangeListenerHandler
  minidraw.standard.handlers.StandardDrawingChangeListenerHandler
  minidraw.framework.DrawingChangeEvent
@@ -7,25 +6,28 @@ SS(minidraw.framework.Drawing.ss) =
  minidraw.boardgame.BoardDrawing
  minidraw.boardgame.BoardGameObserver
  minidraw.boardgame.PropAppearanceStrategy
- minidraw.boardgame.BoardActionTool
  minidraw.framework.Drawing
  minidraw.framework.SelectionHandler
  minidraw.standard.StandardDrawing
  minidraw.standard.handlers.StandardSelectionHandler
-SS(minidraw.framework.DrawingEditor.ss) = 
+SS(drawingeditor.ss) = 
  minidraw.framework.Tool
  minidraw.standard.NullTool
  minidraw.standard.handlers.DragTracker
  minidraw.standard.AbstractTool
+ minidraw.boardgame.BoardActionTool
  minidraw.standard.SelectionTool
+ minidraw.framework.DrawingChangeListener
  minidraw.framework.Factory
+ minidraw.standard.handlers.SelectAreaTracker
  minidraw.framework.DrawingView
  minidraw.standard.MiniDrawApplication
  minidraw.standard.ImageManager
  minidraw.framework.DrawingEditor
  minidraw.standard.StandardDrawingView
  minidraw.standard.StdViewWithBackground
-SS(minidraw.standard.CompositeFigure.ss) =
+SS(figure.ss) =
+ minidraw.boardgame.FigureFactory
  minidraw.standard.GroupFigure
  minidraw.standard.CompositeFigure
  minidraw.framework.FigureChangeEvent
@@ -34,11 +36,9 @@ SS(minidraw.standard.CompositeFigure.ss) =
  minidraw.framework.Figure
  minidraw.standard.ImageFigure
  minidraw.boardgame.BoardFigure
-SS(minidraw.boardgame.BoardFigure.ss) =
+SS(boardgame.ss) =
  minidraw.boardgame.Command
  minidraw.boardgame.NullCommand
- minidraw.boardgame.FigureFactory
-SS(minidraw.standard.handlers.SelectAreaTracker.ss) =
+SS(handlers.ss) =
  minidraw.framework.RubberBandSelectionStrategy
  minidraw.standard.handlers.StandardRubberBandSelectionStrategy
- minidraw.standard.handlers.SelectAreaTracker

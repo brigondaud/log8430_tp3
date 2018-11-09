@@ -2,7 +2,8 @@ package demo.breakthrough;
 
 import java.util.*;
 
-import minidraw.boardgame.*;
+import boardgame.*;
+import figure.*;
 
 /**
  * The factory to generate all pieces.

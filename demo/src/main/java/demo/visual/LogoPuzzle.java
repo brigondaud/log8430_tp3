@@ -1,11 +1,12 @@
-package minidraw.visual;
+package demo.visual;
 
 import java.awt.Point;
 
 import javax.swing.JTextField;
 
-import minidraw.framework.*;
-import minidraw.standard.*;
+import drawingeditor.*;
+import drawing.*;
+import figure.*;
 
 /**
  * A (very small) jigsaw puzzle on the Aarhus University Logo. A demonstration

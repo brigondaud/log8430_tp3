@@ -2,8 +2,7 @@ package demo.visual;
 
 import java.awt.event.KeyEvent;
 
-import minidraw.framework.DrawingEditor;
-import minidraw.standard.*;
+import drawingeditor.*;
 
 /**
  * Display key events in the status message field.

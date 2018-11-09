@@ -8,7 +8,6 @@ import figure.CompositeFigure;
 import figure.Figure;
 import figure.FigureChangeEvent;
 import figure.FigureChangeListener;
-import handlers.*;
 
 /** Standard implementation of the drawing role. */
 

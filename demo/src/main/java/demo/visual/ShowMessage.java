@@ -2,8 +2,7 @@ package demo.visual;
 
 import java.awt.event.MouseEvent;
 
-import minidraw.framework.DrawingEditor;
-import minidraw.standard.*;
+import drawingeditor.*;
 
 /**
  * Demonstrate different messages in the status bar.
