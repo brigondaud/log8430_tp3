@@ -2,8 +2,13 @@ package demo.visual;
 
 import java.awt.Point;
 
-import minidraw.framework.*;
-import minidraw.standard.*;
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.MiniDrawApplication;
+import minidraw.drawingeditor.SelectionTool;
+import minidraw.figure.CompositeFigure;
+import minidraw.figure.Figure;
+import minidraw.figure.GroupFigure;
+import minidraw.figure.ImageFigure;
 
 /**
  * Demonstrate putting several figures into a composite figure.

@@ -2,8 +2,13 @@ package demo.visual;
 
 import javax.swing.JTextField;
 
-import minidraw.framework.*;
-import minidraw.standard.*;
+import minidraw.drawing.Drawing;
+import minidraw.drawing.StandardDrawing;
+import minidraw.drawingeditor.DrawingEditor;
+import minidraw.drawingeditor.DrawingView;
+import minidraw.drawingeditor.Factory;
+import minidraw.drawingeditor.StdViewWithBackground;
+
 
 /**
  * A factory just for testing purposes. Defines a chess board background. 

@@ -3,5 +3,10 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="lib" path="build/libs/demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapti/Documents/EPM/LOG8430/TP/TP3/log8430_tp3/minidraw/build/libs/boardgame.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapti/Documents/EPM/LOG8430/TP/TP3/log8430_tp3/minidraw/build/libs/drawing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapti/Documents/EPM/LOG8430/TP/TP3/log8430_tp3/minidraw/build/libs/drawingeditor.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapti/Documents/EPM/LOG8430/TP/TP3/log8430_tp3/minidraw/build/libs/figure.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapti/Documents/EPM/LOG8430/TP/TP3/log8430_tp3/minidraw/build/libs/handlers.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
